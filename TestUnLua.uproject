@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DF8477D9-4CFF-6739-5EE5-FF8BF5BF3B65}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestUnLua",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
